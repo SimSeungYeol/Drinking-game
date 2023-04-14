@@ -3,7 +3,7 @@
 <img src= "https://user-images.githubusercontent.com/129400944/232063765-de32d3d1-53b5-4640-9178-13bd17bad964.png)
 width="200" height="400"/>
                         
-##**기능**
+## 기능
                         
 컴퓨터는 게임이 시작할때 랜덤한 숫자를 뽑는다
                                                
@@ -27,7 +27,7 @@ width="200" height="400"/>
                                              
 반응형 UI               
                         
-##**사용한기술**
+##사용한기술
                         
 HTML
                         
