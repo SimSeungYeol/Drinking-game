@@ -29,7 +29,7 @@ width="200" height="400"/>
                         
 ## 사용한기술
                         
-HTML #E34F26
+HTML
                         
 CSS
                         
