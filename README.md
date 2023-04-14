@@ -1,5 +1,4 @@
 # Drinking-game
-<img sre="![스크린샷 2023-04-14 오후 10 22 28](https://user-images.githubusercontent.com/129400944/232055809-64f7320f-aeee-4f38-8708-422f5663af49.png)"
 
 술게임 중 유명했던 게임을 만들어봤습니다
 
