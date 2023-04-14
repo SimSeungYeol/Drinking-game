@@ -63,11 +63,12 @@ body {
   
 .red-text {
     color: red;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
   .form-control {
     height: 80px;
-  
     font-size: 3vw;
     margin-right: 20px;
     text-align: center;
@@ -92,10 +93,8 @@ body {
       width: 40vw;
     }
     .button-reset {
-      font-size: 5vw;
-      width: 80px;
-      height: 60px;
+      font-size: 8vw;
+      width: 100px;
+      height: 80px;
     }
   }
-
-  
