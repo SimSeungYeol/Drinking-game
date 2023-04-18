@@ -1,7 +1,7 @@
 # Drinking-game
 
-<img src= "https://user-images.githubusercontent.com/129400944/232063765-de32d3d1-53b5-4640-9178-13bd17bad964.png)
-width="800" height="400"/>
+<img src="https://user-images.githubusercontent.com/129400944/232782308-c0c27f59-d30f-482a-9869-4270972c7500.png" width="800" height="400"/>
+
                         
 <h1>기능</h1>
                         
