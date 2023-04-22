@@ -2,6 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/129400944/232782308-c0c27f59-d30f-482a-9869-4270972c7500.png" width="800" height="400"/>
 
+포트폴리오 웹 사이트 주소 :  https://seungryel-drinking-game-web.netlify.app
                         
 <h1>기능</h1>
                         
